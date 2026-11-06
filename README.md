@@ -48,10 +48,12 @@ Visual Styling & Assets: GitHub Raw CDN (Twemoji), PowerPoint/Figma (Canvas Fram
 Deployment & Hosting: Power BI Service / Web Embed, Vercel
 
 ## 🚀 How to Run Locally
-Clone this repository:
 
-Bash
-git clone [https://github.com/Amrisha7/Insta-Analytics.pbix](https://github.com/Amrisha7/Insta-Analytics.pbix)
-Open the FEEDLYTICS.pbix file using Power BI Desktop.
+1. **Download the file directly:** 
+   [Download Insta-Analytics.pbix](https://github.com/Amrisha7/Instagram_Performance_Analysis/raw/main/Insta-Analytics.pbix)
 
+2. **Or clone via terminal:**
+   ```bash
+   git clone [https://github.com/Amrisha7/Instagram_Performance_Analysis.git](https://github.com/Amrisha7/Instagram_Performance_Analysis.git)
+   ```
 Ensure an active internet connection so external vector image icons load in the slicer visual.
