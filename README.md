@@ -5,6 +5,7 @@ FEEDLYTICS is an executive-level, interactive Power BI performance dashboard bui
 Designed with a custom dark-mode UI inspired by modern mobile analytics apps, it features custom-built DAX slicers, interactive KPI metrics, and seamless cross-filtering capabilities.
 
 ---
+<img width="1322" height="737" alt="WhatsApp Image 2026-11-06 at 8 48 46 PM" src="https://github.com/user-attachments/assets/4f8e572c-d26b-48c9-ba1e-c04fd531d0d6" />
 
 ## 🌟 Key Features
 
